@@ -5,5 +5,6 @@ public class test {
 		System.out.print("Forest Did!");
 		System.out.print("wayne!");
 		System.out.print("wayne!");
+		String x= "test";
 	}
 }
